@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534240492704",
+    "firebase_url": "https://instabuzz-4a901.firebaseio.com",
+    "project_id": "instabuzz-4a901",
+    "storage_bucket": "instabuzz-4a901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534240492704:android:11cf07d23ad0f872bc5dc5",
+        "android_client_info": {
+          "package_name": "com.instabuzzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534240492704-cjp4c9vkm6vvtr5lpk4f176pk89gjkdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2aKN0JGAkoCQUd8FNz8w_IVwNHzUPsfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534240492704-cjp4c9vkm6vvtr5lpk4f176pk89gjkdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
